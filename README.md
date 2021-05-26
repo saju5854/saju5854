@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Java;
 - 💞️ I’m looking to collaborate on ...
-- 📫 My maid id is akbaar.ctg@gmail.com
+- 📫 My Email id is akbaar.ctg@gmail.com
 
 <!---
 saju5854/saju5854 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
